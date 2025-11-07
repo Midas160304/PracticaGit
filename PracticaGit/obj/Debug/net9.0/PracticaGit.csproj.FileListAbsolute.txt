@@ -1,0 +1,14 @@
+C:\Users\André Pacheco\PracticaGit\PracticaGit\bin\Debug\net9.0\PracticaGit.exe
+C:\Users\André Pacheco\PracticaGit\PracticaGit\bin\Debug\net9.0\PracticaGit.deps.json
+C:\Users\André Pacheco\PracticaGit\PracticaGit\bin\Debug\net9.0\PracticaGit.runtimeconfig.json
+C:\Users\André Pacheco\PracticaGit\PracticaGit\bin\Debug\net9.0\PracticaGit.dll
+C:\Users\André Pacheco\PracticaGit\PracticaGit\bin\Debug\net9.0\PracticaGit.pdb
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.AssemblyInfoInputs.cache
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.AssemblyInfo.cs
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.csproj.CoreCompileInputs.cache
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.dll
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\refint\PracticaGit.dll
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.pdb
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.genruntimeconfig.cache
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\ref\PracticaGit.dll
