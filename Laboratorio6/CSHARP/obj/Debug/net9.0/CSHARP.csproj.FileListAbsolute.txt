@@ -1,0 +1,15 @@
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\bin\Debug\net9.0\CSHARP.exe
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\bin\Debug\net9.0\CSHARP.deps.json
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\bin\Debug\net9.0\CSHARP.runtimeconfig.json
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\bin\Debug\net9.0\CSHARP.dll
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\bin\Debug\net9.0\CSHARP.pdb
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\CSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\CSHARP.AssemblyInfoInputs.cache
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\CSHARP.AssemblyInfo.cs
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\CSHARP.sourcelink.json
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\CSHARP.dll
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\refint\CSHARP.dll
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\CSHARP.pdb
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\CSHARP.genruntimeconfig.cache
+C:\Users\André Pacheco\PracticaGit\Laboratorio6\CSHARP\obj\Debug\net9.0\ref\CSHARP.dll
