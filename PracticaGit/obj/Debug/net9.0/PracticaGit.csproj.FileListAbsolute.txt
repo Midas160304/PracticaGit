@@ -12,3 +12,4 @@ C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\refint\Practica
 C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.pdb
 C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.genruntimeconfig.cache
 C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\ref\PracticaGit.dll
+C:\Users\André Pacheco\PracticaGit\PracticaGit\obj\Debug\net9.0\PracticaGit.sourcelink.json

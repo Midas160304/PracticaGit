@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("PracticaGit")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2b5ad61fcc67127fccb57500d0b4eaf339c2d04")]
-[assembly: System.Reflection.AssemblyProductAttribute("PracticaGit")]
-[assembly: System.Reflection.AssemblyTitleAttribute("PracticaGit")]
+[assembly: System.Reflection.AssemblyProductAttribute("CSharp")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
